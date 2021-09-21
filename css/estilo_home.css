@@ -78,6 +78,7 @@ body{
 .menu li ul {
     display: none;
     font-size: 1.1em;
+    background: #b76e79;
 }
 
 .menu li:hover ul
